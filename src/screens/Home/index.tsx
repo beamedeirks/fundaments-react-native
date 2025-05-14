@@ -29,7 +29,7 @@ export default function Home() {
       );
     }
   }
-
+''
   function handleParticipantRemove(name: string) {
     Alert.alert("Remover", `Remover o participante ${name}?`, [
       {
